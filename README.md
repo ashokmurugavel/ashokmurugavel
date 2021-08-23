@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ashokmurugavel
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning IOS App Development
-- 💞️ I’m looking to collaborate on IOS
 - 📫 How to reach me .ashok.murugavel@gmail.com
 
 <!---
