@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashokmurugavel
-- 👀 I’m interested in codeing
+- 👀 I’m interested in Mobile App Development.
 - 🌱 I’m currently learning IOS App Development
 - 📫 you can reach me at ashok.murugavel@gmail.com
 
